@@ -1,4 +1,6 @@
 ;;; nomos-studio.el --- Emacs integration for nomos-studio  -*- lexical-binding: t; -*-
+; SPDX-FileCopyrightText: 2025-2026 nomos-studio contributors
+; SPDX-License-Identifier: GPL-3.0-or-later
 
 ;; Copyright (C) 2026 Thomas Rodgers
 
